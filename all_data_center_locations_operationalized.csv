@@ -1,0 +1,798 @@
+Organization short name,Geocode,Geolocated Country,Coordinates,Latitude,Longitude,Availability zones,Number of facilities,Year of commissioning,Investment,Renewable,Renewable strategy
+Alibaba,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,3,3,2015,,,
+Alibaba,AUS,Australia,"(-33.8688197, 151.2092955)",-33.8688197,151.2092955,2,2,2016,,,
+Alibaba,THA,Thailand,"(13.7563309, 100.5017651)",13.7563309,100.5017651,1,1,2022,,,
+Alibaba,MYS,Malaysia,"(3.1319197, 101.6840589)",3.1319197,101.6840589,2,2,2017,,,
+Alibaba,IDN,Indonesia,"(-6.1944491, 106.8229198)",-6.1944491,106.8229198,3,3,2018,,,
+Alibaba,PHL,Philippines,"(14.5995124, 120.9842195)",14.5995124,120.9842195,1,1,2021,,,
+Alibaba,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,2,2,2018,,,
+Alibaba,JPN,Japan,"(35.6764225, 139.650027)",35.6764225,139.650027,3,3,2016,,,
+Alibaba,KOR,South Korea,"(37.5518911, 126.9917937)",37.5518911,126.9917937,1,1,2022,,,
+Alibaba,"USA, VA",United States,"(37.4315734, -78.6568942)",37.4315734,-78.6568942,2,2,2015,,,
+Alibaba,"USA, CA",United States,"(37.387474, -122.0575434)",37.387474,-122.0575434,2,2,2014,,,
+Alibaba,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,3,3,2016,,,
+Alibaba,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,2,2,2018,,,
+Alibaba,ARE,United Arab Emirates,"(25.2048493, 55.2707828)",25.2048493,55.2707828,1,1,2016,,,
+Alibaba,SAU,Saudi Arabia,"(24.1486906, 47.2718897)",24.1486906,47.2718897,2,2,2022,,,
+Alibaba,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,3,3,2014,,,
+Alibaba,CHN,China,"(36.0662299, 120.38299)",36.0662299,120.38299,2,2,2012,,,
+Alibaba,CHN,China,"(39.904211, 116.407395)",39.904211,116.407395,12,12,2013,,,
+Alibaba,CHN,China,"(40.7686911, 114.8855792)",40.7686911,114.8855792,3,3,2014,,,
+Alibaba,CHN,China,"(40.8414899, 111.75199)",40.8414899,111.75199,2,2,2017,,,
+Alibaba,CHN,China,"(40.9948599, 113.13201)",40.9948599,113.13201,3,3,2020,,,
+Alibaba,CHN,China,"(30.2741499, 120.15515)",30.2741499,120.15515,8,8,2011,,,
+Alibaba,CHN,China,"(31.230416, 121.473701)",31.230416,121.473701,11,11,2015,,,
+Alibaba,CHN,China,"(32.0583799, 118.79647)",32.0583799,118.79647,1,1,2021,,,
+Alibaba,CHN,China,"(22.5428599, 114.05956)",22.5428599,114.05956,6,6,2014,,,
+Alibaba,CHN,China,"(23.7437299, 114.70039)",23.7437299,114.70039,2,2,2020,,,
+Alibaba,CHN,China,"(23.1290799, 113.26436)",23.1290799,113.26436,2,2,2020,,,
+Alibaba,CHN,China,"(30.5722599, 104.0665099)",30.5722599,104.0665099,2,2,2020,,,
+Alibaba,CHN,China,"(26.0742099, 119.29647)",26.0742099,119.29647,1,1,2022,,,
+Alibaba,CHN,China,"(30.5927599, 114.30525)",30.5927599,114.30525,1,1,2023,,,
+AWS,"USA, OR",United States,"(43.8041334, -120.5542012)",43.8041334,-120.5542012,4,4,2011,,,
+AWS,"USA, VA",United States,"(38.8050552, -77.04698619999999)",38.8050552,-77.04698619999999,6,6,2006,,,
+AWS,"USA, CA",United States,"(36.778261, -119.4179324)",36.778261,-119.4179324,3,3,2009,,,
+AWS,"USA, OH",United States,"(40.4172871, -82.90712300000001)",40.4172871,-82.90712300000001,3,3,2016,,,
+AWS,CAN,Canada,"(56.130366, -106.346771)",56.130366,-106.346771,3,3,2016,,,
+AWS,CAN,Canada,"(51.04473309999999, -114.0718831)",51.04473309999999,-114.0718831,3,3,2023,,,
+AWS,"USA, OR",United States,"(43.9840719, -117.6277515)",43.9840719,-117.6277515,3,3,2011,,,
+AWS,,,"(None, None)",,,3,3,2018,,,
+AWS,BRA,Brazil,"(-23.5557714, -46.6395571)",-23.5557714,-46.6395571,3,3,2011,,,
+AWS,IRL,Ireland,"(53.41291, -8.24389)",53.41291,-8.24389,3,3,2007,,,
+AWS,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,3,3,2014,,,
+AWS,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,3,3,2016,,,
+AWS,FRA,France,"(48.856614, 2.3522219)",48.856614,2.3522219,3,3,2017,,,
+AWS,SWE,Sweden,"(59.32932349999999, 18.0685808)",59.32932349999999,18.0685808,3,3,2018,,,
+AWS,ITA,Italy,"(45.4642035, 9.189982)",45.4642035,9.189982,3,3,2020,,,
+AWS,CHE,Switzerland,"(47.3768866, 8.541694)",47.3768866,8.541694,3,3,2022,,,
+AWS,ESP,Spain,"(40.46366700000001, -3.74922)",40.46366700000001,-3.74922,3,3,2022,,,
+AWS,BHR,Bahrain,"(26.0667, 50.5577)",26.0667,50.5577,3,3,2019,,,
+AWS,ARE,United Arab Emirates,"(23.424076, 53.847818)",23.424076,53.847818,3,3,2022,,,
+AWS,ISR,Israel,"(32.0852999, 34.78176759999999)",32.0852999,34.78176759999999,3,3,2023,,,
+AWS,ZAF,South Africa,"(-33.8872573, 18.5384888)",-33.8872573,18.5384888,3,3,2020,,,
+AWS,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,3,3,2010,,,
+AWS,JPN,Japan,"(35.6764225, 139.650027)",35.6764225,139.650027,4,4,2011,,,
+AWS,KOR,South Korea,"(37.5518911, 126.9917937)",37.5518911,126.9917937,4,4,2016,,,
+AWS,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,3,3,2016,,,
+AWS,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,3,3,2019,,,
+AWS,JPN,Japan,"(34.6937249, 135.5022535)",34.6937249,135.5022535,3,3,2021,,,
+AWS,IDN,Indonesia,"(-6.1944491, 106.8229198)",-6.1944491,106.8229198,3,3,2021,,,
+AWS,AUS,Australia,"(-33.8688197, 151.2092955)",-33.8688197,151.2092955,3,3,2012,,,
+AWS,AUS,Australia,"(-37.8136276, 144.9630576)",-37.8136276,144.9630576,3,3,2023,,,
+AWS,IND,India,"(17.406498, 78.47724389999999)",17.406498,78.47724389999999,3,3,2022,,,
+AWS,CHN,China,"(38.4711699, 106.25867)",38.4711699,106.25867,3,3,,,,
+AWS,CHN,China,"(39.904211, 116.407395)",39.904211,116.407395,3,3,,,,
+Digital Realty,"USA, GA",United States,"(33.748752, -84.38768449999999)",33.748752,-84.38768449999999,,3,,,,
+Digital Realty,"USA, TX",United States,"(30.267153, -97.7430608)",30.267153,-97.7430608,,1,,,,
+Digital Realty,"USA, MA",United States,"(42.3600825, -71.0588801)",42.3600825,-71.0588801,,3,,,,
+Digital Realty,"USA, NC",United States,"(35.2270869, -80.8431267)",35.2270869,-80.8431267,,1,,,,
+Digital Realty,"USA, IL",United States,"(41.8781136, -87.6297982)",41.8781136,-87.6297982,,9,,,,
+Digital Realty,"USA, TX",United States,"(32.7766642, -96.79698789999999)",32.7766642,-96.79698789999999,,13,,,,
+Digital Realty,BRA,Brazil,"(-3.7327203, -38.5270134)",-3.7327203,-38.5270134,,1,,,,
+Digital Realty,"USA, TX",United States,"(29.7604267, -95.3698028)",29.7604267,-95.3698028,,1,,,,
+Digital Realty,"USA, CA",United States,"(34.0549076, -118.242643)",34.0549076,-118.242643,,4,,,,
+Digital Realty,"USA, FL",United States,"(25.7616798, -80.1917902)",25.7616798,-80.1917902,,1,,,,
+Digital Realty,"USA, NY",United States,"(40.7127753, -74.0059728)",40.7127753,-74.0059728,,8,,,,
+Digital Realty,"USA, VA",United States,"(38.8050552, -77.04698619999999)",38.8050552,-77.04698619999999,,16,,,,
+Digital Realty,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,2,,,,
+Digital Realty,"USA, OR",United States,"(45.515232, -122.6783853)",45.515232,-122.6783853,,2,,,,
+Digital Realty,MEX,Mexico,"(20.5887932, -100.3898881)",20.5887932,-100.3898881,,3,,,,
+Digital Realty,BRA,Brazil,"(-22.9068467, -43.1728965)",-22.9068467,-43.1728965,,2,,,,
+Digital Realty,CHL,Chile,"(-33.4488897, -70.6692655)",-33.4488897,-70.6692655,,3,,,,
+Digital Realty,BRA,Brazil,"(-23.5557714, -46.6395571)",-23.5557714,-46.6395571,,23,,,,
+Digital Realty,"USA, WA",United States,"(47.6061389, -122.3328481)",47.6061389,-122.3328481,,1,,,,
+Digital Realty,"USA, CA",United States,"(37.387474, -122.0575434)",37.387474,-122.0575434,,15,,,,
+Digital Realty,CAN,Canada,"(43.653226, -79.3831843)",43.653226,-79.3831843,,3,,,,
+Digital Realty,COL,Colombia,"(4.710988599999999, -74.072092)",4.710988599999999,-74.072092,,2,,,,
+Digital Realty,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,,2,,,,
+Digital Realty,AUS,Australia,"(-37.8136276, 144.9630576)",-37.8136276,144.9630576,,1,,,,
+Digital Realty,JPN,Japan,"(34.6937249, 135.5022535)",34.6937249,135.5022535,,4,,,,
+Digital Realty,KOR,South Korea,"(37.5518911, 126.9917937)",37.5518911,126.9917937,,1,,,,
+Digital Realty,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,3,,,,
+Digital Realty,AUS,Australia,"(-33.8688197, 151.2092955)",-33.8688197,151.2092955,,2,,,,
+Digital Realty,JPN,Japan,"(35.6764225, 139.650027)",35.6764225,139.650027,,3,,,,
+Digital Realty,IND,India,"(13.0826802, 80.2707184)",13.0826802,80.2707184,,1,,,,
+Digital Realty,NGA,Nigeria,"(9.0562646, 7.4985259)",9.0562646,7.4985259,,1,,,,
+Digital Realty,NLD,Netherlands,"(52.3675734, 4.9041389)",52.3675734,4.9041389,,11,,,,
+Digital Realty,GRC,Greece,"(37.9838096, 23.7275388)",37.9838096,23.7275388,,2,,,,
+Digital Realty,BEL,Belgium,"(50.8476424, 4.3571696)",50.8476424,4.3571696,,3,,,,
+Digital Realty,DNK,Denmark,"(55.6760968, 12.5683371)",55.6760968,12.5683371,,4,,,,
+Digital Realty,IRL,Ireland,"(53.3498053, -6.2603097)",53.3498053,-6.2603097,,9,,,,
+Digital Realty,DEU,Germany,"(51.2230411, 6.7824545)",51.2230411,6.7824545,,3,,,,
+Digital Realty,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,23,,,,
+Digital Realty,NGA,Nigeria,"(6.5243793, 3.3792057)",6.5243793,3.3792057,,2,,,,
+Digital Realty,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,,14,,,,
+Digital Realty,ESP,Spain,"(40.4167754, -3.7037902)",40.4167754,-3.7037902,,4,,,,
+Digital Realty,FRA,France,"(43.296482, 5.36978)",43.296482,5.36978,,4,,,,
+Digital Realty,KEN,Kenya,"(-4.0434771, 39.6682065)",-4.0434771,39.6682065,,2,,,,
+Digital Realty,KEN,Kenya,"(-1.2920659, 36.8219462)",-1.2920659,36.8219462,,2,,,,
+Digital Realty,FRA,France,"(48.856614, 2.3522219)",48.856614,2.3522219,,13,,,,
+Digital Realty,SWE,Sweden,"(59.32932349999999, 18.0685808)",59.32932349999999,18.0685808,,6,,,,
+Digital Realty,AUT,Austria,"(48.2081664, 16.3718643)",48.2081664,16.3718643,,2,,,,
+Digital Realty,HRV,Croatia,"(45.8150108, 15.981919)",45.8150108,15.981919,,1,,,,
+Digital Realty,CHE,Switzerland,"(47.3768866, 8.541694)",47.3768866,8.541694,,3,,,,
+Digital Realty,ZAF,South Africa,"(-29.85868039999999, 31.0218404)",-29.85868039999999,31.0218404,,1,,,,
+Digital Realty,ZAF,South Africa,"(-33.8872573, 18.5384888)",-33.8872573,18.5384888,,2,,,,
+Digital Realty,ZAF,South Africa,"(-26.2041028, 28.0473051)",-26.2041028,28.0473051,,3,,,,
+Digital Realty,MOZ,Mozambique,"(-25.969248, 32.5731746)",-25.969248,32.5731746,,1,,,,
+Digital Realty,GHA,Ghana,"(5.559284600000001, -0.1974306)",5.559284600000001,-0.1974306,,1,,,,
+Equinix,FRA,France,"(48.9013819, 2.4176467)",48.9013819,2.4176467,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,ESP,Spain,"(37.3964955, -5.9481451)",37.3964955,-5.9481451,,1,,,100%,100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+Equinix,BGR,Bulgaria,"(42.6550853, 23.3972732)",42.6550853,23.3972732,,1,,,100%,100% from Green product through supplier (bundled GoOs)
+Equinix,BGR,Bulgaria,"(42.6753033, 23.4010806)",42.6753033,23.4010806,,1,,,100%,100% from 100% from Green product through supplier (bundled GoOs)
+Equinix,SWE,Sweden,"(59.36246269999999, 17.9566192)",59.36246269999999,17.9566192,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,SWE,Sweden,"(59.26367080000001, 18.1053629)",59.26367080000001,18.1053629,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,SWE,Sweden,"(59.3909352, 17.8752196)",59.3909352,17.8752196,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,POL,Poland,"(52.2276575, 21.0042443)",52.2276575,21.0042443,,1,,,100%,100% from GoOs from Poland wind/solar
+Equinix,POL,Poland,"(52.1540294, 21.0043255)",52.1540294,21.0043255,,1,,,100%,100% from 100% from Unbundled GoOs from Poland wind
+Equinix,POL,Poland,"(52.201551, 20.9367532)",52.201551,20.9367532,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,CHE,Switzerland,"(47.3877404, 8.5201949)",47.3877404,8.5201949,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,CHE,Switzerland,"(47.3877404, 8.5201949)",47.3877404,8.5201949,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,CHE,Switzerland,"(47.4053481, 8.462757)",47.4053481,8.462757,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,NLD,Netherlands,"(52.4883938, 6.142599499999999)",52.4883938,6.142599499999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,"USA, GA",United States,"(33.7585633, -84.3877746)",33.7585633,-84.3877746,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, GA",United States,"(33.7554648, -84.3914602)",33.7554648,-84.3914602,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, GA",United States,"(33.7554648, -84.3914602)",33.7554648,-84.3914602,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, GA",United States,"(33.8954451, -84.4536112)",33.8954451,-84.4536112,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, GA",United States,"(33.938982, -84.227186)",33.938982,-84.227186,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, MA",United States,"(42.5505548, -71.2152146)",42.5505548,-71.2152146,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, IL",United States,"(41.8531135, -87.6183281)",41.8531135,-87.6183281,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, IL",United States,"(41.8531135, -87.6183281)",41.8531135,-87.6183281,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, IL",United States,"(42.0010976, -87.9548634)",42.0010976,-87.9548634,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, IL",United States,"(41.8531135, -87.6183281)",41.8531135,-87.6183281,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, IL",United States,"(41.8125982, -87.9728341)",41.8125982,-87.9728341,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(38.4551336, -77.9780767)",38.4551336,-77.9780767,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(38.4551336, -77.9780767)",38.4551336,-77.9780767,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(38.4551336, -77.9780767)",38.4551336,-77.9780767,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(38.4551336, -77.9780767)",38.4551336,-77.9780767,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(32.8007033, -96.8191899)",32.8007033,-96.8191899,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(32.800748, -96.819412)",32.800748,-96.819412,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(32.800748, -96.819412)",32.800748,-96.819412,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(32.7872315, -96.794157)",32.7872315,-96.794157,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(32.800748, -96.819412)",32.800748,-96.819412,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(33.0649358, -96.81065029999999)",33.0649358,-96.81065029999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(32.8303165, -96.9126896)",32.8303165,-96.9126896,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(32.800748, -96.819412)",32.800748,-96.819412,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.0155544, -77.4603448)",39.0155544,-77.4603448,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.016494, -77.4592617)",39.016494,-77.4592617,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.0221038, -77.460696)",39.0221038,-77.460696,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.0164848, -77.4619615)",39.0164848,-77.4619615,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.015216, -77.457658)",39.015216,-77.457658,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.0152031, -77.4594652)",39.0152031,-77.4594652,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(38.9093627, -77.22044369999999)",38.9093627,-77.22044369999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.020867, -77.4513023)",39.020867,-77.4513023,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.0152031, -77.4594652)",39.0152031,-77.4594652,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.02218380000001, -77.45058139999999)",39.02218380000001,-77.45058139999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.0124932, -77.4753692)",39.0124932,-77.4753692,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(38.8035236, -77.5105238)",38.8035236,-77.5105238,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(39.0225032, -77.45022809999999)",39.0225032,-77.45022809999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, VA",United States,"(38.9615942, -77.3774327)",38.9615942,-77.3774327,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CO",United States,"(39.5873917, -104.8763163)",39.5873917,-104.8763163,,1,,,100%,100% from Xcel Energy Renewable*Connect Colorado (in-state solar)
+Equinix,"USA, CO",United States,"(39.5602805, -104.8576841)",39.5602805,-104.8576841,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, TX",United States,"(29.9358021, -95.3643633)",29.9358021,-95.3643633,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(34.0475197, -118.2572167)",34.0475197,-118.2572167,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(34.0488973, -118.2595846)",34.0488973,-118.2595846,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(33.926306, -118.3940759)",33.926306,-118.3940759,,1,,,100%,100% from RECs from wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(33.9216329, -118.3840239)",33.9216329,-118.3840239,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(33.8508719, -118.3040072)",33.8508719,-118.3040072,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, FL",United States,"(25.7823647, -80.1931295)",25.7823647,-80.1931295,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, FL",United States,"(25.7758686, -80.1931295)",25.7758686,-80.1931295,,1,,,100%,100% from RECs from wind VPPAs and Green-e wind RECs
+Equinix,IRL,Ireland,"(53.3190518, -6.4408559)",53.3190518,-6.4408559,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,IRL,Ireland,"(53.4107498, -6.3520675)",53.4107498,-6.3520675,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,IRL,Ireland,"(53.41117610000001, -6.3566581)",53.41117610000001,-6.3566581,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,DEU,Germany,"(51.21963179999999, 6.807150399999999)",51.21963179999999,6.807150399999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,NLD,Netherlands,"(52.23700119999999, 6.849657499999999)",52.23700119999999,6.849657499999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,DEU,Germany,"(50.1418804, 8.7417759)",50.1418804,8.7417759,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,DEU,Germany,"(50.0978335, 8.5871439)",50.0978335,8.5871439,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,DEU,Germany,"(50.0988483, 8.631954499999999)",50.0988483,8.631954499999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,DEU,Germany,"(50.0978335, 8.5871439)",50.0978335,8.5871439,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,DEU,Germany,"(50.0971357, 8.6440413)",50.0971357,8.6440413,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,DEU,Germany,"(53.6445008, 9.975041299999999)",53.6445008,9.975041299999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,CHE,Switzerland,"(46.20360660000001, 6.144250899999999)",46.20360660000001,6.144250899999999,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,CHE,Switzerland,"(46.2079503, 6.098114)",46.2079503,6.098114,,1,,,100%,100% from Green product through supplier (local hydro)
+Equinix,FIN,Finland,"(60.18532589999999, 24.9699197)",60.18532589999999,24.9699197,,1,,,100%,100% from Green product through supplier (bundled GoOs)
+Equinix,FIN,Finland,"(60.284477, 24.838742)",60.284477,24.838742,,1,,,100%,100% from Green product through supplier (bundled GoOs)
+Equinix,FIN,Finland,"(60.2214342, 24.9855512)",60.2214342,24.9855512,,1,,,100%,100% from Green product through supplier (bundled GoOs)
+Equinix,FIN,Finland,"(60.2031604, 24.7784519)",60.2031604,24.7784519,,1,,,100%,100% from Green product through supplier (bundled GoOs)
+Equinix,FIN,Finland,"(60.20411110000001, 24.7753689)",60.20411110000001,24.7753689,,1,,,100%,100% from Green product through supplier (bundled GoOs)
+Equinix,TUR,Turkey,"(41.0086605, 29.1566677)",41.0086605,29.1566677,,1,,,100%,100% from I-RECs from Turkey small hydro/wind/solar
+Equinix,PRT,Portugal,"(38.7878616, -9.123393)",38.7878616,-9.123393,,1,,,100%,100% from Green product through supplier (bundled GoOs)
+Equinix,GBR,United Kingdom,"(51.528778, -0.2727404)",51.528778,-0.2727404,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.5233111, -0.6357567)",51.5233111,-0.6357567,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.5224355, -0.6290175)",51.5224355,-0.6290175,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.52456979999999, -0.6349477)",51.52456979999999,-0.6349477,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.5257496, -0.6357767999999999)",51.5257496,-0.6357767999999999,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.49816569999999, -0.0152639)",51.49816569999999,-0.0152639,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.5318382, -0.2573596)",51.5318382,-0.2573596,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.5222073, -0.6236247)",51.5222073,-0.6236247,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(51.5222073, -0.6236247)",51.5222073,-0.6236247,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,ESP,Spain,"(40.5134971, -3.6718906)",40.5134971,-3.6718906,,1,,,100%,100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+Equinix,ESP,Spain,"(40.536787, -3.6485417)",40.536787,-3.6485417,,1,,,100%,100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+Equinix,GBR,United Kingdom,"(53.4641019, -2.2364185)",53.4641019,-2.2364185,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(53.4643489, -2.2476141)",53.4643489,-2.2476141,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(53.4680204, -2.2935116)",53.4680204,-2.2935116,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,GBR,United Kingdom,"(53.4634969, -2.2367207)",53.4634969,-2.2367207,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,ITA,Italy,"(45.4486888, 9.1474418)",45.4486888,9.1474418,,1,,,100%,100% from Green product through supplier (bundled GoOs from local wind)
+Equinix,ITA,Italy,"(45.3541137, 9.1466649)",45.3541137,9.1466649,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,ITA,Italy,"(45.5110466, 9.2438755)",45.5110466,9.2438755,,1,,,100%,100% from Green product through supplier (bundled GoOs from local wind)
+Equinix,DEU,Germany,"(48.1425433, 11.5560521)",48.1425433,11.5560521,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,DEU,Germany,"(48.1425433, 11.5560521)",48.1425433,11.5560521,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,FRA,France,"(48.9837033, 2.5071675)",48.9837033,2.5071675,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,FRA,France,"(48.92816999999999, 2.352084)",48.92816999999999,2.352084,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,FRA,France,"(48.92816999999999, 2.352084)",48.92816999999999,2.352084,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,FRA,France,"(48.7865184, 2.5000046)",48.7865184,2.5000046,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,FRA,France,"(48.90306229999999, 2.371401)",48.90306229999999,2.371401,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,FRA,France,"(48.9104641, 2.368007)",48.9104641,2.368007,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,FRA,France,"(48.9039991, 2.2574815)",48.9039991,2.2574815,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,AUS,Australia,"(-37.8227198, 144.9153418)",-37.8227198,144.9153418,,1,,,18.6%,18.6% from Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-37.8227198, 144.9153418)",-37.8227198,144.9153418,,1,,,18.6%,18.6% from Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-37.7927082, 144.7715559)",-37.7927082,144.7715559,,1,,,18.6%,18.6% from Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-37.7927082, 144.7715559)",-37.7927082,144.7715559,,1,,,18.6%,18.6% from Grid renewables backed by LGCs
+Equinix,JPN,Japan,"(34.6757148, 135.4956656)",34.6757148,135.4956656,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,AUS,Australia,"(-31.957186, 115.8761576)",-31.957186,115.8761576,,1,,,18.6%,18.6% from 100% from Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-31.9608733, 115.8148972)",-31.9608733,115.8148972,,1,,,18.6%,18.6% from 100% from Grid renewables backed by LGCs
+Equinix,CHN,China,"(31.21274, 121.63796)",31.21274,121.63796,,1,,,,Exempt
+Equinix,CHN,China,"(31.24734, 121.62048)",31.24734,121.62048,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,CHN,China,"(31.24734, 121.62048)",31.24734,121.62048,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,CHN,China,"(31.2724, 121.54499)",31.2724,121.54499,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,CHN,China,"(31.317017, 121.6184689)",31.317017,121.6184689,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,SGP,Singapore,"(1.2955571, 103.7899667)",1.2955571,103.7899667,,1,,,100%,100% from I-RECs from Vietnam small hydro/wind/solar
+Equinix,SGP,Singapore,"(1.3218189, 103.6952553)",1.3218189,103.6952553,,1,,,100%,100% from I-RECs from Vietnam small hydro/wind/solar
+Equinix,SGP,Singapore,"(1.2961857, 103.7909266)",1.2961857,103.7909266,,1,,,100%,100% from I-RECs from Vietnam small hydro/wind/solar
+Equinix,SGP,Singapore,"(1.3390683, 103.893284)",1.3390683,103.893284,,1,,,100%,100% from I-RECs from Vietnam small hydro/wind/solar
+Equinix,AUS,Australia,"(-33.9213512, 151.18808)",-33.9213512,151.18808,,1,,,18.6%,18.6% Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-33.9218878, 151.1881905)",-33.9218878,151.1881905,,1,,,18.6%,18.6% Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-33.9117762, 151.1929422)",-33.9117762,151.1929422,,1,,,18.6%,18.6% Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-33.9181984, 151.1893)",-33.9181984,151.1893,,1,,,18.6%,18.6% Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-33.9185485, 151.1890502)",-33.9185485,151.1890502,,1,,,18.6%,18.6% Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-33.8339902, 151.0482995)",-33.8339902,151.0482995,,1,,,18.6%,18.6% Grid renewables backed by LGCs
+Equinix,AUS,Australia,"(-34.4545933, 150.8451519)",-34.4545933,150.8451519,,1,,,18.6%,18.6% Grid renewables backed by LGCs
+Equinix,,,"(None, None)",,,,1,,,,
+Equinix,JPN,Japan,"(35.5787778, 139.7349051)",35.5787778,139.7349051,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.6174027, 139.747926)",35.6174027,139.747926,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.6566851, 139.8034767)",35.6566851,139.8034767,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.687589, 139.765773)",35.687589,139.765773,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.6552423, 139.8043558)",35.6552423,139.8043558,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.6226935, 139.7483584)",35.6226935,139.7483584,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.6226935, 139.7483584)",35.6226935,139.7483584,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.6216723, 139.742051)",35.6216723,139.742051,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.7087547, 139.7439175)",35.7087547,139.7439175,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.7087547, 139.7439175)",35.7087547,139.7439175,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,JPN,Japan,"(35.6397161, 139.7922892)",35.6397161,139.7922892,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,KOR,South Korea,"(37.5829095, 126.8871836)",37.5829095,126.8871836,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,ARE,United Arab Emirates,"(24.4191875, 54.6210625)",24.4191875,54.6210625,,1,,,100%,100% from I-RECs from Turkey small hydro/wind/solar
+Equinix,NLD,Netherlands,"(52.2999285, 4.9431207)",52.2999285,4.9431207,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.2999285, 4.9431207)",52.2999285,4.9431207,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.3549245, 4.960960099999999)",52.3549245,4.960960099999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.3549245, 4.960960099999999)",52.3549245,4.960960099999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.2933512, 4.9450536)",52.2933512,4.9450536,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.3366935, 4.930046)",52.3366935,4.930046,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.3030783, 4.9380093)",52.3030783,4.9380093,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.39684829999999, 4.8386235)",52.39684829999999,4.8386235,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,NLD,Netherlands,"(52.2999285, 4.9431207)",52.2999285,4.9431207,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,ESP,Spain,"(41.3515721, 2.137484)",41.3515721,2.137484,,1,,,100%,100% from Green product through supplier (bundled GoOs from hydro/solar/ biomass/wind)
+Equinix,ARE,United Arab Emirates,"(25.0385213, 55.1837424)",25.0385213,55.1837424,,1,,,100%,100% from I-RECs from UAE solar
+Equinix,ARE,United Arab Emirates,"(25.1739289, 55.3179951)",25.1739289,55.3179951,,1,,,100%,100% from I-RECs from UAE solar
+Equinix,IRL,Ireland,"(53.291683, -6.415208)",53.291683,-6.415208,,1,,,100%,100% from Green product through supplier (bundled GoOs from wind)
+Equinix,"USA, FL",United States,"(26.3889623, -80.1091478)",26.3889623,-80.1091478,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, FL",United States,"(25.7878489, -80.3545546)",25.7878489,-80.3545546,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,MEX,Mexico,"(25.7663856, -100.1932354)",25.7663856,-100.1932354,,1,,,100%,100% from I-RECs from Mexico wind/solar
+Equinix,MEX,Mexico,"(20.5722921, -100.3147277)",20.5722921,-100.3147277,,1,,,100%,100% from I-RECs from Mexico wind/solar
+Equinix,MEX,Mexico,"(20.5722921, -100.3147277)",20.5722921,-100.3147277,,1,,,100%,100% from I-RECs from Mexico wind/solar
+Equinix,"USA, NJ",United States,"(40.7368442, -74.17340229999999)",40.7368442,-74.17340229999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NJ",United States,"(40.7778177, -74.07590859999999)",40.7778177,-74.07590859999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NJ",United States,"(40.7764996, -74.06985089999999)",40.7764996,-74.06985089999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NJ",United States,"(40.7785344, -74.0722373)",40.7785344,-74.0722373,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NJ",United States,"(40.7775316, -74.072788)",40.7775316,-74.072788,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NJ",United States,"(40.7966743, -74.0313066)",40.7966743,-74.0313066,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NY",United States,"(40.717729, -74.0083059)",40.717729,-74.0083059,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NY",United States,"(40.7414911, -74.00338889999999)",40.7414911,-74.00338889999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NJ",United States,"(40.5843303, -74.24342659999999)",40.5843303,-74.24342659999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, NY",United States,"(41.0708036, -73.8199454)",41.0708036,-73.8199454,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, PA",United States,"(39.95972769999999, -75.1615758)",39.95972769999999,-75.1615758,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, WA",United States,"(47.5848161, -122.3268615)",47.5848161,-122.3268615,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, WA",United States,"(47.6376317, -122.36364)",47.6376317,-122.36364,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, WA",United States,"(47.42168830000001, -122.2475094)",47.42168830000001,-122.2475094,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(37.2415378, -121.783474)",37.2415378,-121.783474,,1,,,100%,"100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+Equinix,"USA, CA",United States,"(37.3781646, -121.9549689)",37.3781646,-121.9549689,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(37.38823470000001, -121.8884572)",37.38823470000001,-121.8884572,,1,,,100%,"100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+Equinix,"USA, CA",United States,"(37.4145265, -122.0146732)",37.4145265,-122.0146732,,1,,,100%,"100% from Silicon Valley Clean Energy (GreenStart 100% carbon free), RECs from wind VPPAs, and Green-e wind RECs"
+Equinix,"USA, CA",United States,"(37.2418698, -121.7816047)",37.2418698,-121.7816047,,1,,,100%,"100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+Equinix,,,"(None, None)",,,,1,,,,
+Equinix,"USA, CA",United States,"(37.4458254, -122.1608123)",37.4458254,-122.1608123,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(37.2413955, -121.7849556)",37.2413955,-121.7849556,,1,,,100%,"100% from San Jose Clean Energy (Greensource 100% carbon-free), RECs from wind VPPAs, and Green-e wind RECs"
+Equinix,"USA, CA",United States,"(37.4000411, -121.8952298)",37.4000411,-121.8952298,,1,,,100%,100% from San Jose Clean Energy (Greensource 100% carbon-free)
+Equinix,"USA, CA",United States,"(37.3749528, -121.9888098)",37.3749528,-121.9888098,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(37.375705, -121.988525)",37.375705,-121.988525,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(37.37632110000001, -121.9884071)",37.37632110000001,-121.9884071,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,"USA, CA",United States,"(37.3765079, -121.9886321)",37.3765079,-121.9886321,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(43.6446728, -79.3841283)",43.6446728,-79.3841283,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(43.6508466, -79.36224829999999)",43.6508466,-79.36224829999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,COL,Colombia,"(4.6719209, -74.15578169999999)",4.6719209,-74.15578169999999,,1,,,100%,100% from I-RECs from Colombia hydro
+Equinix,BRA,Brazil,"(-22.9547717, -43.1945909)",-22.9547717,-43.1945909,,1,,,100%,100% from Green product through supplier (bundled wind I-RECs)
+Equinix,BRA,Brazil,"(-22.8713852, -43.273228)",-22.8713852,-43.273228,,1,,,100%,100% from Green product through supplier (bundled wind I-RECs)
+Equinix,BRA,Brazil,"(-23.5460202, -46.63581749999999)",-23.5460202,-46.63581749999999,,1,,,100%,100% from Green product through supplier (bundled wind I-RECs)
+Equinix,BRA,Brazil,"(-23.5031326, -46.8272798)",-23.5031326,-46.8272798,,1,,,100%,100% from Green product through supplier (bundled wind I-RECs)
+Equinix,BRA,Brazil,"(-23.4663344, -46.86328839999999)",-23.4663344,-46.86328839999999,,1,,,100%,100% from Green product through supplier (bundled wind I-RECs)
+Equinix,BRA,Brazil,"(-23.497589, -46.8145765)",-23.497589,-46.8145765,,1,,,100%,100% from Green product through supplier (bundled wind I-RECs)
+Equinix,AUS,Australia,"(-34.9328294, 138.6038129)",-34.9328294,138.6038129,,1,,,18.6%,18.6% from LGCs from wind/solar
+Equinix,AUS,Australia,"(-27.457826, 153.0356579)",-27.457826,153.0356579,,1,,,18.6%,18.6% from LGCs from wind/solar
+Equinix,AUS,Australia,"(-35.2801846, 149.1310324)",-35.2801846,149.1310324,,1,,,18.6%,18.6% from Grid renewables backed by LGCs
+Equinix,HKG,China,"(22.365483, 114.1193175)",22.365483,114.1193175,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,HKG,China,"(22.362483, 114.119171)",22.362483,114.119171,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,HKG,China,"(22.3678679, 114.1185743)",22.3678679,114.1185743,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,HKG,China,"(22.3894508, 114.2060779)",22.3894508,114.2060779,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,HKG,China,"(22.2930575, 114.274573)",22.2930575,114.274573,,1,,,100%,100% from I-RECs from China small hydro/wind/solar
+Equinix,"USA, TX",United States,"(32.8013465, -96.8210738)",32.8013465,-96.8210738,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(51.0455173, -114.0692971)",51.0455173,-114.0692971,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(51.0479923, -114.0093577)",51.0479923,-114.0093577,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(50.976971, -113.9566769)",50.976971,-113.9566769,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(50.6754553, -120.3798609)",50.6754553,-120.3798609,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(45.4893059, -73.7446841)",45.4893059,-73.7446841,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(45.57552, -75.39839)",45.57552,-75.39839,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(45.2918813, -66.0999604)",45.2918813,-66.0999604,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(43.6470615, -79.3827201)",43.6470615,-79.3827201,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(43.8469018, -79.33337329999999)",43.8469018,-79.33337329999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(43.7448394, -79.717727)",43.7448394,-79.717727,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(43.7438554, -79.7166752)",43.7438554,-79.7166752,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(49.2604094, -123.0109405)",49.2604094,-123.0109405,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,CAN,Canada,"(49.8249838, -97.1781495)",49.8249838,-97.1781495,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,,,"(None, None)",,,,1,,,,
+Equinix,"USA, VA",United States,"(39.0119765, -77.45414099999999)",39.0119765,-77.45414099999999,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,BRA,Brazil,"(-23.4636935, -46.8626708)",-23.4636935,-46.8626708,,1,,,100%,100% from Green product through supplier (bundled wind I-RECs)
+Equinix,"USA, CA",United States,"(37.242022, -121.7845084)",37.242022,-121.7845084,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,IND,India,"(19.1135727, 72.8924912)",19.1135727,72.8924912,,1,,,100%,100% from I-RECs from India small hydro
+Equinix,IND,India,"(19.1108461, 72.90119609999999)",19.1108461,72.90119609999999,,1,,,100%,100% from I-RECs from India small hydro
+Equinix,JPN,Japan,"(34.8586918, 135.508696)",34.8586918,135.508696,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,AUS,Australia,"(-31.9575626, 115.8137261)",-31.9575626,115.8137261,,1,,,18.6%,18.6% from 100% from Grid renewables backed by LGCs
+Equinix,SGP,Singapore,"(1.3172805, 103.7021178)",1.3172805,103.7021178,,1,,,100%,100% from I-RECs from Vietnam small hydro/wind/solar
+Equinix,JPN,Japan,"(35.8055667, 140.1261524)",35.8055667,140.1261524,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,FRA,France,"(44.8958199, -0.611387)",44.8958199,-0.611387,,1,,,100%,"100% Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,DEU,Germany,"(50.0980496, 8.585666)",50.0980496,8.585666,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,ITA,Italy,"(44.4269129, 8.9501048)",44.4269129,8.9501048,,1,,,100%,100% from Green product through supplier (bundled GoOs from local wind)
+Equinix,GBR,United Kingdom,"(51.52325860000001, -0.6377532)",51.52325860000001,-0.6377532,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,OMN,Oman,"(23.6837432, 57.9048938)",23.6837432,57.9048938,,1,,,100%,100% from I-RECs from UAE and Jordan solar
+Equinix,ITA,Italy,"(45.4761129, 9.037763199999999)",45.4761129,9.037763199999999,,1,,,100%,100% from Green product through supplier (bundled GoOs from local wind)
+Equinix,DEU,Germany,"(48.14648320000001, 11.6822783)",48.14648320000001,11.6822783,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,FRA,France,"(48.92816999999999, 2.352084)",48.92816999999999,2.352084,,1,,,100%,"100% from Green product through supplier (bundled wind, hydro, and solar GOs)"
+Equinix,DEU,Germany,"(50.14183999999999, 8.73865)",50.14183999999999,8.73865,,1,,,100%,100% from GoOs from wind/solar
+Equinix,JPN,Japan,"(34.6937249, 135.5022535)",34.6937249,135.5022535,,1,,,100%,100% from Japanese non-fossil certificates from wind/solar (20%) and I-RECs from China small hydro/wind/solar (80%)
+Equinix,FRA,France,"(48.92816999999999, 2.352084)",48.92816999999999,2.352084,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,CHL,Chile,"(-33.4483643, -70.8510752)",-33.4483643,-70.8510752,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,CHL,Chile,"(-33.4483643, -70.8510752)",-33.4483643,-70.8510752,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,CHL,Chile,"(-33.4440956, -70.6561526)",-33.4440956,-70.6561526,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,CHL,Chile,"(-33.8954957, -71.4606764)",-33.8954957,-71.4606764,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,GBR,United Kingdom,"(53.5040217, -2.2966689)",53.5040217,-2.2966689,,1,,,100%,100% from Green product through supplier (GoOs and REGOs)
+Equinix,PER,Peru,"(-12.0873401, -76.97313840000001)",-12.0873401,-76.97313840000001,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,ESP,Spain,"(40.53373879999999, -3.6615449)",40.53373879999999,-3.6615449,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,IRL,Ireland,"(53.3839704, -6.377579)",53.3839704,-6.377579,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,,,"(None, None)",,,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,ESP,Spain,"(40.53373879999999, -3.6615449)",40.53373879999999,-3.6615449,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,,,"(None, None)",,,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,DEU,Germany,"(50.13864, 8.74033)",50.13864,8.74033,,1,,,100%,100% from Green product through supplier (bundled GoOs from GreenBase program)
+Equinix,AUS,Australia,"(-33.82254959999999, 151.0349456)",-33.82254959999999,151.0349456,,1,,,18.6%,18.6% from Grid renewables backed by LGCs
+Equinix,CIV,Côte d'Ivoire,"(5.225936, -3.753666299999999)",5.225936,-3.753666299999999,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,GHA,Ghana,"(5.8026594, -0.0943689)",5.8026594,-0.0943689,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,NGA,Nigeria,"(6.4496201, 3.586764999999999)",6.4496201,3.586764999999999,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,NGA,Nigeria,"(7.147502, 3.3619356)",7.147502,3.3619356,,1,,,,Exempt for 2022; currently nothing beyond the grid
+Equinix,"USA, CA",United States,"(37.3996139, -122.0145533)",37.3996139,-122.0145533,,1,,,100%,100% from RECs from U.S. wind VPPAs and Green-e wind RECs
+Equinix,AUS,Australia,"(-33.9195347, 151.2025491)",-33.9195347,151.2025491,,1,,,18.6%,18.6% from Grid renewables backed by LGCs
+Alphabet,"USA, SC",United States,"(33.1260618, -80.0087746)",33.1260618,-80.0087746,,2,2007,2.4 billion,,
+Alphabet,"USA, IA",United States,"(41.2619444, -95.8608333)",41.2619444,-95.8608333,,3,2007,5 billion,,
+Alphabet,"USA, OR",United States,"(45.6017716, -121.1848433)",45.6017716,-121.1848433,,1,2006,1.8 billion,,
+Alphabet,"USA, GA",United States,"(33.7290225, -84.7315563)",33.7290225,-84.7315563,,1,2003,1.2 billion,,
+Alphabet,"USA, NV",United States,"(36.0395247, -114.9817213)",36.0395247,-114.9817213,,1,2019,1.2 billion,,
+Alphabet,"USA, AL",United States,"(34.7090388, -86.0121573)",34.7090388,-86.0121573,,1,2018,600 million,,
+Alphabet,"USA, NC",United States,"(35.9140196, -81.5389849)",35.9140196,-81.5389849,,1,2007,1.2 billion,,
+Alphabet,"USA, VA",United States,"(39.076767, -77.6536125)",39.076767,-77.6536125,,1,2019,1.2 billion,,
+Alphabet,"USA, OK",United States,"(36.2322429, -95.3102505)",36.2322429,-95.3102505,,5,2007,4.4 billion,,
+Alphabet,"USA, TX",United States,"(32.475335, -97.01031809999999)",32.475335,-97.01031809999999,,1,2019,600 million,,
+Alphabet,"USA, TN",United States,"(36.4960406, -87.460397)",36.4960406,-87.460397,,1,2018,600 million,,
+Alphabet,"USA, OH",United States,"(40.0821602, -82.8100923)",40.0821602,-82.8100923,,1,2019,600 million,,
+Alphabet,"USA, NV",United States,"(39.4847933, -119.5571677)",39.4847933,-119.5571677,,1,2021,600 million,,
+Alphabet,CHL,Chile,"(-33.3576747, -70.72927179999999)",-33.3576747,-70.72927179999999,,1,2015,290 million,,
+Alphabet,IRL,Ireland,"(53.3498053, -6.2603097)",53.3498053,-6.2603097,,1,2012,500 million,,
+Alphabet,NLD,Netherlands,"(53.4385887, 6.8354937)",53.4385887,6.8354937,,3,2016,3.3 billion,,
+Alphabet,DNK,Denmark,"(55.5689298, 9.749516999999999)",55.5689298,9.749516999999999,,1,2020,600 million,,
+Alphabet,FIN,Finland,"(60.5693374, 27.1878318)",60.5693374,27.1878318,,1,2011,2 billion,,
+Alphabet,NLD,Netherlands,"(52.8110945, 4.9948975)",52.8110945,4.9948975,,1,2020,500 million,,
+Alphabet,BEL,Belgium,"(50.4705544, 3.8169701)",50.4705544,3.8169701,,5,2010,3 billion,,
+Alphabet,TWN,Taiwan,"(24.0517963, 120.5161352)",24.0517963,120.5161352,,1,2011,600 million,,
+Alphabet,JPN,Japan,"(35.8326275, 140.1456967)",35.8326275,140.1456967,,1,2023,730 million,,
+Alphabet,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,3,2013,850 million,,
+Iron Mountain,IND,India,"(12.9715987, 77.5945627)",12.9715987,77.5945627,,1,,,,
+Iron Mountain,IND,India,"(28.7040592, 77.10249019999999)",28.7040592,77.10249019999999,,1,,,,
+Iron Mountain,IND,India,"(17.406498, 78.47724389999999)",17.406498,78.47724389999999,,1,,,,
+Iron Mountain,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,2,,,,
+Iron Mountain,IND,India,"(18.5204303, 73.8567437)",18.5204303,73.8567437,,1,,,,
+Iron Mountain,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,1,,,100% ,
+Iron Mountain,NLD,Netherlands,"(52.3675734, 4.9041389)",52.3675734,4.9041389,,1,,,100% ,
+Iron Mountain,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,2,,,100% ,
+Iron Mountain,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,,2,,,100% ,
+Iron Mountain,ESP,Spain,"(40.4167754, -3.7037902)",40.4167754,-3.7037902,,1,,,,
+Iron Mountain,"USA, MA",United States,"(42.3600825, -71.0588801)",42.3600825,-71.0588801,,1,,,100% ,
+Iron Mountain,"USA, CO",United States,"(39.7392358, -104.990251)",39.7392358,-104.990251,,1,,,100% ,
+Iron Mountain,"USA, MO",United States,"(39.0997265, -94.5785667)",39.0997265,-94.5785667,,1,,,100% ,
+Iron Mountain,"USA, NJ",United States,"(40.0583238, -74.4056612)",40.0583238,-74.4056612,,1,,,100% ,
+Iron Mountain,"USA, OH",United States,"(40.4172871, -82.90712300000001)",40.4172871,-82.90712300000001,,1,,,100% ,
+Iron Mountain,"USA, PA",United States,"(41.2033216, -77.1945247)",41.2033216,-77.1945247,,1,,,100% ,
+Iron Mountain,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,3,,,100% ,
+Iron Mountain,"USA, AZ",United States,"(33.4948764, -111.9216734)",33.4948764,-111.9216734,,1,,,100% ,
+Iron Mountain,"USA, VA",United States,"(37.4315734, -78.6568942)",37.4315734,-78.6568942,,3,,,100% ,
+Lumen,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,1,,,,
+Lumen,"USA, CA",United States,"(34.1808392, -118.3089661)",34.1808392,-118.3089661,,1,,,,
+Lumen,"USA, CA",United States,"(33.6845673, -117.8265049)",33.6845673,-117.8265049,,1,,,,
+Lumen,"USA, CA",United States,"(34.0549076, -118.242643)",34.0549076,-118.242643,,1,,,,
+Lumen,"USA, CA",United States,"(38.5815719, -121.4943996)",38.5815719,-121.4943996,,1,,,,
+Lumen,"USA, CA",United States,"(32.715738, -117.1610838)",32.715738,-117.1610838,,1,,,,
+Lumen,"USA, CA",United States,"(37.7749295, -122.4194155)",37.7749295,-122.4194155,,1,,,,
+Lumen,"USA, CA",United States,"(37.3541079, -121.9552356)",37.3541079,-121.9552356,,1,,,,
+Lumen,"USA, CA",United States,"(37.36883, -122.0363496)",37.36883,-122.0363496,,1,,,,
+Lumen,"USA, CO",United States,"(39.7392358, -104.990251)",39.7392358,-104.990251,,1,,,,
+Lumen,"USA, DC",United States,"(38.9059849, -77.03341790000002)",38.9059849,-77.03341790000002,,1,,,,
+Lumen,"USA, GA",United States,"(33.748752, -84.38768449999999)",33.748752,-84.38768449999999,,1,,,,
+Lumen,"USA, IL",United States,"(41.8781136, -87.6297982)",41.8781136,-87.6297982,,1,,,,
+Lumen,"USA, MA",United States,"(42.3600825, -71.0588801)",42.3600825,-71.0588801,,1,,,,
+Lumen,"USA, MI",United States,"(42.331427, -83.0457538)",42.331427,-83.0457538,,1,,,,
+Lumen,"USA, MN",United States,"(44.977753, -93.2650108)",44.977753,-93.2650108,,1,,,,
+Lumen,"USA, MO",United States,"(38.6270025, -90.19940419999999)",38.6270025,-90.19940419999999,,1,,,,
+Lumen,"USA, NE",United States,"(41.2565369, -95.9345034)",41.2565369,-95.9345034,,1,,,,
+Lumen,"USA, NV",United States,"(36.171563, -115.1391009)",36.171563,-115.1391009,,1,,,,
+Lumen,"USA, NJ",United States,"(40.735657, -74.1723667)",40.735657,-74.1723667,,1,,,,
+Lumen,"USA, NM",United States,"(35.0843859, -106.650422)",35.0843859,-106.650422,,1,,,,
+Lumen,"USA, NY",United States,"(40.7127753, -74.0059728)",40.7127753,-74.0059728,,1,,,,
+Lumen,"USA, NC",United States,"(35.7795897, -78.6381787)",35.7795897,-78.6381787,,1,,,,
+Lumen,"USA, OH",United States,"(41.49932, -81.6943605)",41.49932,-81.6943605,,1,,,,
+Lumen,"USA, OH",United States,"(39.9611755, -82.99879419999999)",39.9611755,-82.99879419999999,,1,,,,
+Lumen,"USA, PA",United States,"(39.9525839, -75.1652215)",39.9525839,-75.1652215,,1,,,,
+Lumen,"USA, TX",United States,"(32.7766642, -96.79698789999999)",32.7766642,-96.79698789999999,,1,,,,
+Lumen,"USA, TX",United States,"(29.7604267, -95.3698028)",29.7604267,-95.3698028,,1,,,,
+Lumen,"USA, TX",United States,"(29.4251905, -98.4945922)",29.4251905,-98.4945922,,1,,,,
+Lumen,"USA, UT",United States,"(40.7607793, -111.8910474)",40.7607793,-111.8910474,,1,,,,
+Lumen,"USA, NY",United States,"(40.7403074, -74.0079584)",40.7403074,-74.0079584,,1,,,,
+Lumen,"USA, WA",United States,"(47.1301417, -119.2780771)",47.1301417,-119.2780771,,1,,,,
+Lumen,"USA, WA",United States,"(47.6061389, -122.3328481)",47.6061389,-122.3328481,,1,,,,
+Lumen,CAN,Canada,"(45.5018869, -73.56739189999999)",45.5018869,-73.56739189999999,,1,,,,
+Lumen,CAN,Canada,"(43.653226, -79.3831843)",43.653226,-79.3831843,,1,,,,
+Lumen,CAN,Canada,"(49.2827291, -123.1207375)",49.2827291,-123.1207375,,1,,,,
+Lumen,BEL,Belgium,"(50.8476424, 4.3571696)",50.8476424,4.3571696,,1,,,,
+Lumen,FRA,France,"(48.856614, 2.3522219)",48.856614,2.3522219,,1,,,,
+Lumen,DEU,Germany,"(52.52000659999999, 13.404954)",52.52000659999999,13.404954,,1,,,,
+Lumen,DEU,Germany,"(51.2230411, 6.7824545)",51.2230411,6.7824545,,1,,,,
+Lumen,DEU,Germany,"(48.1351253, 11.5819806)",48.1351253,11.5819806,,1,,,,
+Lumen,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,1,,,,
+Lumen,DEU,Germany,"(53.5488282, 9.987170299999999)",53.5488282,9.987170299999999,,1,,,,
+Lumen,NLD,Netherlands,"(52.3675734, 4.9041389)",52.3675734,4.9041389,,1,,,,
+Lumen,GBR,United Kingdom,"(51.5123443, -0.0909852)",51.5123443,-0.0909852,,1,,,,
+Lumen,GBR,United Kingdom,"(51.55633, 0.0655092)",51.55633,0.0655092,,1,,,,
+Lumen,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,,1,,,,
+Lumen,CHN,China,"(31.230416, 121.473701)",31.230416,121.473701,,1,,,,
+Lumen,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,,1,,,,
+Lumen,JPN,Japan,"(35.6764225, 139.650027)",35.6764225,139.650027,,1,,,,
+Lumen,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,1,,,,
+Lumen,ARG,Argentina,"(-34.6036844, -58.3815591)",-34.6036844,-58.3815591,,1,,,,
+Lumen,BRA,Brazil,"(-25.4372382, -49.2699727)",-25.4372382,-49.2699727,,1,,,,
+Lumen,BRA,Brazil,"(-22.9068467, -43.1728965)",-22.9068467,-43.1728965,,1,,,,
+Lumen,BRA,Brazil,"(-23.5557714, -46.6395571)",-23.5557714,-46.6395571,,1,,,,
+Lumen,CHL,Chile,"(-33.4488897, -70.6692655)",-33.4488897,-70.6692655,,1,,,,
+Lumen,COL,Colombia,"(4.710988599999999, -74.072092)",4.710988599999999,-74.072092,,1,,,,
+Lumen,ECU,Ecuador,"(-0.1806532, -78.4678382)",-0.1806532,-78.4678382,,1,,,,
+Lumen,PER,Peru,"(-12.0463731, -77.042754)",-12.0463731,-77.042754,,1,,,,
+Lumen,VEN,Venezuela,"(10.4805937, -66.90360629999999)",10.4805937,-66.90360629999999,,1,,,,
+Lumen,AUS,Australia,"(-27.4704528, 153.0260341)",-27.4704528,153.0260341,,1,,,,
+Lumen,AUS,Australia,"(-35.2801846, 149.1310324)",-35.2801846,149.1310324,,1,,,,
+Lumen,AUS,Australia,"(-37.8136276, 144.9630576)",-37.8136276,144.9630576,,1,,,,
+Lumen,AUS,Australia,"(-31.9513993, 115.8616783)",-31.9513993,115.8616783,,1,,,,
+Lumen,AUS,Australia,"(-33.8688197, 151.2092955)",-33.8688197,151.2092955,,1,,,,
+Lumen,"USA, FL",United States,"(25.7616798, -80.1917902)",25.7616798,-80.1917902,,1,,,,
+Lumen,"USA, FL",United States,"(27.9516896, -82.45875269999999)",27.9516896,-82.45875269999999,,1,,,,
+Lumen,"USA, FL",United States,"(28.5383832, -81.3789269)",28.5383832,-81.3789269,,1,,,,
+Meta,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,1,2018,S$1.4 billion+,100%,
+Meta,DNK,Denmark,"(55.40375599999999, 10.40237)",55.40375599999999,10.40237,,1,2017,13 billion+ DKK,100%,
+Meta,IRL,Ireland,"(53.4105621, -6.4426)",53.4105621,-6.4426,,1,2016,€1.4 billion investment  ,100%,
+Meta,SWE,Sweden,"(65.584819, 22.1567026)",65.584819,22.1567026,,1,2011,8.7 billion+ SEK,100%,
+Meta,"USA, AL",United States,"(34.7303688, -86.5861037)",34.7303688,-86.5861037,,1,2018,$1.5 billion,100%,
+Meta,"USA, AZ",United States,"(33.4151843, -111.8314724)",33.4151843,-111.8314724,,1,2021,$1 billion+,100%,
+Meta,"USA, GA",United States,"(33.6176407, -83.6902202)",33.6176407,-83.6902202,,1,2018,$1 billion,100%,
+Meta,"USA, ID",United States,"(43.4918307, -116.4201223)",43.4918307,-116.4201223,,1,2022,$800 million+,100%,
+Meta,"USA, IL",United States,"(41.9295355, -88.74991279999999)",41.9295355,-88.74991279999999,,1,2020,$1 billion+,100%,
+Meta,"USA, IN",United States,"(38.2775702, -85.7371847)",38.2775702,-85.7371847,,1,2024,$800 million+,100%,
+Meta,"USA, IA",United States,"(41.6435514, -93.47508359999999)",41.6435514,-93.47508359999999,,1,2013,$2.5 billion,100%,
+Meta,"USA, MO",United States,"(39.0997265, -94.5785667)",39.0997265,-94.5785667,,1,2022,$800 million+,100%,
+Meta,"USA, NE",United States,"(41.0744042, -96.19513200000002)",41.0744042,-96.19513200000002,,1,2017,$1.5 billion+,100%,
+Meta,"USA, NM",United States,"(34.806166, -106.7333599)",34.806166,-106.7333599,,1,2016,~$2 billion,100%,
+Meta,"USA, NC",United States,"(35.3340108, -81.8651028)",35.3340108,-81.8651028,,1,2010,$750 million+,100%,
+Meta,"USA, OH",United States,"(40.0821602, -82.8100923)",40.0821602,-82.8100923,,1,2017,$1.5 billion,100%,
+Meta,"USA, OR",United States,"(44.2998485, -120.8344664)",44.2998485,-120.8344664,,1,2010,$2 billion+,100%,
+Meta,"USA, TN",United States,"(36.3883432, -86.4463663)",36.3883432,-86.4463663,,1,2020,Nearly $1 billion,100%,
+Meta,"USA, TX",United States,"(32.7554883, -97.3307658)",32.7554883,-97.3307658,,1,2015,$1.5 billion+,100%,
+Meta,"USA, TX",United States,"(31.0982344, -97.342782)",31.0982344,-97.342782,,1,2022,$800 million+,100%,
+Meta,"USA, UT",United States,"(40.31411689999999, -112.006882)",40.31411689999999,-112.006882,,1,2018,$1.5 billion+,100%,
+Meta,"USA, VA",United States,"(37.6307265, -77.54399610000002)",37.6307265,-77.54399610000002,,1,2017,$1 billion+,100%,
+Microsoft,AUS,Australia,"(-35.2801846, 149.1310324)",-35.2801846,149.1310324,,1,2018,,,
+Microsoft,AUS,Australia,"(-31.2532183, 146.921099)",-31.2532183,146.921099,3,3,2014,,,
+Microsoft,AUS,Australia,"(-36.9847807, 143.3906074)",-36.9847807,143.3906074,,1,2014,,,
+Microsoft,AUT,Austria,"(48.2081664, 16.3718643)",48.2081664,16.3718643,,,Coming soon,,,
+Microsoft,BEL,Belgium,"(50.8476424, 4.3571696)",50.8476424,4.3571696,,,Coming soon,,,
+Microsoft,BRA,Brazil,"(-21.2922457, -50.3428431)",-21.2922457,-50.3428431,3,3,2014,,,
+Microsoft,CAN,Canada,"(43.653226, -79.3831843)",43.653226,-79.3831843,3,3,2016,,,
+Microsoft,CAN,Canada,"(46.8130816, -71.20745959999999)",46.8130816,-71.20745959999999,,1,2016,,,
+Microsoft,IND,India,"(18.5204303, 73.8567437)",18.5204303,73.8567437,3,3,2015,,,
+Microsoft,"USA, IA",United States,"(41.8780025, -93.097702)",41.8780025,-93.097702,3,3,2014,,,
+Microsoft,CHL,Chile,"(-33.4488897, -70.6692655)",-33.4488897,-70.6692655,,,Coming soon,,,
+Microsoft,CHN,China,"(31.230416, 121.473701)",31.230416,121.473701,,1,2014,,,
+Microsoft,CHN,China,"(31.230416, 121.473701)",31.230416,121.473701,,1,2018,,,
+Microsoft,CHN,China,"(39.904211, 116.407395)",39.904211,116.407395,,1,2014,,,
+Microsoft,CHN,China,"(39.904211, 116.407395)",39.904211,116.407395,,1,2018,,,
+Microsoft,CHN,China,"(38.0359899, 114.46979)",38.0359899,114.46979,3,3,2022,,,
+Microsoft,DNK,Denmark,"(55.6760968, 12.5683371)",55.6760968,12.5683371,,,Coming soon,,,
+Microsoft,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,3,3,2010,,,
+Microsoft,"USA, VA",United States,"(37.4315734, -78.6568942)",37.4315734,-78.6568942,3,3,2012,,,
+Microsoft,"USA, VA",United States,"(37.4315734, -78.6568942)",37.4315734,-78.6568942,3,3,2014,,,
+Microsoft,GEO,Georgia,"(42.315407, 43.35689199999999)",42.315407,43.35689199999999,,,Coming soon,,,
+Microsoft,FIN,Finland,"(60.16985569999999, 24.938379)",60.16985569999999,24.938379,,,Coming soon,,,
+Microsoft,FRA,France,"(48.856614, 2.3522219)",48.856614,2.3522219,3,3,2018,,,
+Microsoft,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,3,3,2019,,,
+Microsoft,GRC,Greece,"(37.9838096, 23.7275388)",37.9838096,23.7275388,,,Coming soon,,,
+Microsoft,IND,India,"(17.406498, 78.47724389999999)",17.406498,78.47724389999999,,,Coming soon,,,
+Microsoft,IDN,Indonesia,"(-6.1944491, 106.8229198)",-6.1944491,106.8229198,,,Coming soon,,,
+Microsoft,ISR,Israel,"(31.046051, 34.851612)",31.046051,34.851612,3,3,2023,,,
+Microsoft,ITA,Italy,"(45.4642035, 9.189982)",45.4642035,9.189982,3,3,2023,,,
+Microsoft,JPN,Japan,"(35.8616486, 139.6454782)",35.8616486,139.6454782,3,3,2014,,,
+Microsoft,JPN,Japan,"(34.6937249, 135.5022535)",34.6937249,135.5022535,,1,2014,,,
+Microsoft,KOR,South Korea,"(37.5518911, 126.9917937)",37.5518911,126.9917937,3,3,2017,,,
+Microsoft,MYS,Malaysia,"(3.1319197, 101.6840589)",3.1319197,101.6840589,,,Coming soon,,,
+Microsoft,MEX,Mexico,"(20.5888184, -100.3898876)",20.5888184,-100.3898876,,,Coming soon,,,
+Microsoft,NZL,New Zealand,"(-36.85088270000001, 174.7644881)",-36.85088270000001,174.7644881,,,Coming soon,,,
+Microsoft,"USA, IL",United States,"(40.6331249, -89.3985283)",40.6331249,-89.3985283,,1,2009,,,
+Microsoft,IRL,Ireland,"(53.77975540000001, -7.3055309)",53.77975540000001,-7.3055309,3,3,2009,,,
+Microsoft,NOR,Norway,"(59.9138688, 10.7522454)",59.9138688,10.7522454,3,3,2019,,,
+Microsoft,POL,Poland,"(52.2296756, 21.0122287)",52.2296756,21.0122287,3,3,2023,,,
+Microsoft,QAT,Qatar,"(25.2854473, 51.53103979999999)",25.2854473,51.53103979999999,3,3,2022,,,
+Microsoft,SAU,Saudi Arabia,"(26.4206828, 50.0887943)",26.4206828,50.0887943,,,Coming soon,,,
+Microsoft,ZAF,South Africa,"(-26.2041028, 28.0473051)",-26.2041028,28.0473051,3,3,2019,,,
+Microsoft,"USA, TX",United States,"(31.9685988, -99.9018131)",31.9685988,-99.9018131,3,3,2008,,,
+Microsoft,IND,India,"(13.0826802, 80.2707184)",13.0826802,80.2707184,,1,2015,,,
+Microsoft,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,3,3,2010,,,
+Microsoft,ESP,Spain,"(40.4167754, -3.7037902)",40.4167754,-3.7037902,,,Coming soon,,,
+Microsoft,SWE,Sweden,"(60.6748796, 17.1412726)",60.6748796,17.1412726,3,3,2021,,,
+Microsoft,CHE,Switzerland,"(47.3768866, 8.541694)",47.3768866,8.541694,3,3,2019,,,
+Microsoft,TWN,Taiwan,"(25.0329694, 121.5654177)",25.0329694,121.5654177,,,Coming soon,,,
+Microsoft,ARE,United Arab Emirates,"(25.2048493, 55.2707828)",25.2048493,55.2707828,3,3,2019,,,
+Microsoft,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,3,3,2016,,,
+Microsoft,GBR,United Kingdom,"(51.483707, -3.1680962)",51.483707,-3.1680962,,1,2016,,,
+Microsoft,"USA, IA",United States,"(41.8780025, -93.097702)",41.8780025,-93.097702,,1,2017,,,
+Microsoft,"USA, VA",United States,"(37.4315734, -78.6568942)",37.4315734,-78.6568942,,1,2017,,,
+Microsoft,"USA, AZ",United States,"(34.0489281, -111.0937311)",34.0489281,-111.0937311,,1,2017,,,
+Microsoft,"USA, TX",United States,"(31.9685988, -99.9018131)",31.9685988,-99.9018131,,1,2017,,,
+Microsoft,"USA, VA",United States,"(37.4315734, -78.6568942)",37.4315734,-78.6568942,3,3,2014,,,
+Microsoft,,,"(None, None)",,,,1,2020,,,
+Microsoft,,,"(None, None)",,,,1,2020,,,
+Microsoft,,,"(None, None)",,,,,Coming soon,,,
+Microsoft,"USA, WY",United States,"(43.0759678, -107.2902839)",43.0759678,-107.2902839,,1,2016,,,
+Microsoft,NLD,Netherlands,"(52.132633, 5.291265999999999)",52.132633,5.291265999999999,3,3,2010,,,
+Microsoft,"USA, CA",United States,"(36.778261, -119.4179324)",36.778261,-119.4179324,,1,2012,,,
+Microsoft,"USA, DC",United States,"(38.9071923, -77.0368707)",38.9071923,-77.0368707,3,3,2007,,,
+Microsoft,"USA, AZ",United States,"(34.0489281, -111.0937311)",34.0489281,-111.0937311,3,3,2021,,,
+NTT,"USA, CA",United States,"(37.3541079, -121.9552356)",37.3541079,-121.9552356,,1,,,,
+NTT,"USA, CA",United States,"(38.5815719, -121.4943996)",38.5815719,-121.4943996,,1,,,,
+NTT,"USA, CA",United States,"(38.5815719, -121.4943996)",38.5815719,-121.4943996,,1,,,,
+NTT,"USA, CA",United States,"(38.5815719, -121.4943996)",38.5815719,-121.4943996,,1,,,,
+NTT,"USA, IL",United States,"(41.8781136, -87.6297982)",41.8781136,-87.6297982,,1,,,,
+NTT,"USA, OR",United States,"(45.5201113, -122.989848)",45.5201113,-122.989848,,1,,,,
+NTT,"USA, TX",United States,"(32.7766642, -96.79698789999999)",32.7766642,-96.79698789999999,,1,,,,
+NTT,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,,,,
+NTT,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,,,,
+NTT,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,,,,
+NTT,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,,,,
+NTT,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,,,,
+NTT,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,1,,,,
+NTT,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,,1,,,,
+NTT,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,,1,,,,
+NTT,IDN,Indonesia,"(-6.1944491, 106.8229198)",-6.1944491,106.8229198,,1,,,,
+NTT,IDN,Indonesia,"(-6.1944491, 106.8229198)",-6.1944491,106.8229198,,1,,,,
+NTT,JPN,Japan,"(34.6937249, 135.5022535)",34.6937249,135.5022535,,1,,,,
+NTT,JPN,Japan,"(35.6764225, 139.650027)",35.6764225,139.650027,,1,,,,
+NTT,MYS,Malaysia,"(2.921318, 101.6559349)",2.921318,101.6559349,,1,,,,
+NTT,MYS,Malaysia,"(2.921318, 101.6559349)",2.921318,101.6559349,,1,,,,
+NTT,MYS,Malaysia,"(2.921318, 101.6559349)",2.921318,101.6559349,,1,,,,
+NTT,SGP,Singapore,"(1.3553567, 103.8678708)",1.3553567,103.8678708,,1,,,,
+NTT,THA,Thailand,"(13.7563309, 100.5017651)",13.7563309,100.5017651,,1,,,,
+NTT,THA,Thailand,"(13.7563309, 100.5017651)",13.7563309,100.5017651,,1,,,,
+NTT,THA,Thailand,"(13.7563309, 100.5017651)",13.7563309,100.5017651,,1,,,,
+NTT,VNM,Vietnam,"(10.8230989, 106.6296638)",10.8230989,106.6296638,,1,,,,
+NTT,AUT,Austria,"(48.2081664, 16.3718643)",48.2081664,16.3718643,,1,,,,
+NTT,DEU,Germany,"(52.52000659999999, 13.404954)",52.52000659999999,13.404954,,1,,,,
+NTT,DEU,Germany,"(52.52000659999999, 13.404954)",52.52000659999999,13.404954,,1,,,,
+NTT,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,1,,,,
+NTT,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,1,,,,
+NTT,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,1,,,,
+NTT,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,1,,,,
+NTT,DEU,Germany,"(53.5488282, 9.987170299999999)",53.5488282,9.987170299999999,,1,,,,
+NTT,DEU,Germany,"(48.1351253, 11.5819806)",48.1351253,11.5819806,,1,,,,
+NTT,DEU,Germany,"(48.1351253, 11.5819806)",48.1351253,11.5819806,,1,,,,
+NTT,NLD,Netherlands,"(52.3675734, 4.9041389)",52.3675734,4.9041389,,1,,,,
+NTT,ZAF,South Africa,"(-26.2041028, 28.0473051)",-26.2041028,28.0473051,,1,,,,
+NTT,ESP,Spain,"(40.4167754, -3.7037902)",40.4167754,-3.7037902,,1,,,,
+NTT,CHE,Switzerland,"(47.3768866, 8.541694)",47.3768866,8.541694,,1,,,,
+NTT,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,,1,,,,
+NTT,GBR,United Kingdom,"(51.753241, -0.448632)",51.753241,-0.448632,,1,,,,
+NTT,GBR,United Kingdom,"(51.753241, -0.448632)",51.753241,-0.448632,,1,,,,
+NTT,GBR,United Kingdom,"(51.753241, -0.448632)",51.753241,-0.448632,,1,,,,
+NTT,GBR,United Kingdom,"(51.753241, -0.448632)",51.753241,-0.448632,,1,,,,
+NTT,GBR,United Kingdom,"(51.51053839999999, -0.5950405999999999)",51.51053839999999,-0.5950405999999999,,1,,,,
+NTT,GBR,United Kingdom,"(51.51053839999999, -0.5950405999999999)",51.51053839999999,-0.5950405999999999,,1,,,,
+NTT,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+NTT,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+NTT,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+NTT,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+NTT,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+NTT,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+NTT,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+NTT,IND,India,"(12.9715987, 77.5945627)",12.9715987,77.5945627,,1,,,,
+NTT,IND,India,"(12.9715987, 77.5945627)",12.9715987,77.5945627,,1,,,,
+NTT,IND,India,"(13.0826802, 80.2707184)",13.0826802,80.2707184,,1,,,,
+NTT,IND,India,"(13.0826802, 80.2707184)",13.0826802,80.2707184,,1,,,,
+NTT,IND,India,"(28.7040592, 77.10249019999999)",28.7040592,77.10249019999999,,1,,,,
+NTT,IND,India,"(28.7040592, 77.10249019999999)",28.7040592,77.10249019999999,,1,,,,
+Oracle,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,2017,,,
+Oracle,"USA, IL",United States,"(41.8781136, -87.6297982)",41.8781136,-87.6297982,,1,2022,,,
+Oracle,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,1,2016,,,
+Oracle,"USA, CA",United States,"(37.33874, -121.8852525)",37.33874,-121.8852525,,1,2020,,,
+Oracle,CAN,Canada,"(45.5018869, -73.56739189999999)",45.5018869,-73.56739189999999,,1,2020,,,
+Oracle,CAN,Canada,"(43.653226, -79.3831843)",43.653226,-79.3831843,,1,2019,,,
+Oracle,MEX,Mexico,"(20.5887932, -100.3898881)",20.5887932,-100.3898881,,1,2022,,,
+Oracle,MEX,Mexico,"(25.6866142, -100.3161126)",25.6866142,-100.3161126,,1,2023,,,
+Oracle,BRA,Brazil,"(-23.5557714, -46.6395571)",-23.5557714,-46.6395571,,1,2019,,,
+Oracle,BRA,Brazil,"(-23.0263701, -46.98178799999999)",-23.0263701,-46.98178799999999,,1,2021,,,
+Oracle,CHL,Chile,"(-33.4488897, -70.6692655)",-33.4488897,-70.6692655,,1,2020,,,
+Oracle,CHL,Chile,"(-33.047238, -71.61268849999999)",-33.047238,-71.61268849999999,,1,2023,,,
+Oracle,COL,Colombia,"(4.710988599999999, -74.072092)",4.710988599999999,-74.072092,,1,2023,,,
+Oracle,FRA,France,"(48.856614, 2.3522219)",48.856614,2.3522219,,1,2022,,,
+Oracle,FRA,France,"(43.296482, 5.36978)",43.296482,5.36978,,1,2021,,,
+Oracle,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,1,2017,,,
+Oracle,ITA,Italy,"(45.4642035, 9.189982)",45.4642035,9.189982,,1,2021,,,
+Oracle,NLD,Netherlands,"(52.3675734, 4.9041389)",52.3675734,4.9041389,,1,2020,,,
+Oracle,SRB,Serbia,"(44.049103, 20.9509129)",44.049103,20.9509129,,1,2023,,,
+Oracle,ESP,Spain,"(40.4167754, -3.7037902)",40.4167754,-3.7037902,,1,2022,,,
+Oracle,SWE,Sweden,"(59.32932349999999, 18.0685808)",59.32932349999999,18.0685808,,1,2021,,,
+Oracle,CHE,Switzerland,"(47.3768866, 8.541694)",47.3768866,8.541694,,1,2019,,,
+Oracle,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,,1,2018,,,
+Oracle,"USA, RI",United States,"(41.4901024, -71.3128285)",41.4901024,-71.3128285,,1,2020,,,
+Oracle,ISR,Israel,"(31.768319, 35.21371)",31.768319,35.21371,,1,2021,,,
+Oracle,ISR,Israel,"(31.046051, 34.851612)",31.046051,34.851612,,,Planned,,,
+Oracle,KEN,Kenya,"(-0.023559, 37.906193)",-0.023559,37.906193,,,Planned,,,
+Oracle,SAU,Saudi Arabia,"(21.5291545, 39.1610863)",21.5291545,39.1610863,,1,2020,,,
+Oracle,EGY,Egypt,"(27.1865762, 31.1935651)",27.1865762,31.1935651,,,Planned,,,
+Oracle,SAU,Saudi Arabia,"(23.885942, 45.079162)",23.885942,45.079162,,,Planned,,,
+Oracle,ZAF,South Africa,"(-26.2041028, 28.0473051)",-26.2041028,28.0473051,,1,2022,,,
+Oracle,ARE,United Arab Emirates,"(25.2048493, 55.2707828)",25.2048493,55.2707828,,1,2020,,,
+Oracle,ARE,United Arab Emirates,"(24.453884, 54.3773438)",24.453884,54.3773438,,1,2021,,,
+Oracle,AUS,Australia,"(-33.8688197, 151.2092955)",-33.8688197,151.2092955,,1,2019,,,
+Oracle,AUS,Australia,"(-37.8136276, 144.9630576)",-37.8136276,144.9630576,,1,2020,,,
+Oracle,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,2019,,,
+Oracle,IND,India,"(17.406498, 78.47724389999999)",17.406498,78.47724389999999,,1,2020,,,
+Oracle,JPN,Japan,"(35.6764225, 139.650027)",35.6764225,139.650027,,1,2019,,,
+Oracle,JPN,Japan,"(34.6937249, 135.5022535)",34.6937249,135.5022535,,1,2020,,,
+Oracle,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,1,2021,,,
+Oracle,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,,Planned,,,
+Oracle,KOR,South Korea,"(37.5518911, 126.9917937)",37.5518911,126.9917937,,1,2019,,,
+Oracle,KOR,South Korea,"(37.8897796, 127.7398952)",37.8897796,127.7398952,,1,2020,,,
+Oracle,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,1,2023,,,
+Oracle,ESP,Spain,"(40.4167754, -3.7037902)",40.4167754,-3.7037902,,1,2023,,,
+Oracle,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,2018,,,
+Oracle,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,1,2018,,,
+Oracle,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,2019,,,
+Oracle,"USA, IL",United States,"(41.8781136, -87.6297982)",41.8781136,-87.6297982,,1,2020,,,
+Oracle,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,1,2019,,,
+Oracle,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,,1,2019,,,
+Oracle,"USA, RI",United States,"(41.4901024, -71.3128285)",41.4901024,-71.3128285,,1,2020,,,
+Oracle,AUS,Australia,"(-35.2801846, 149.1310324)",-35.2801846,149.1310324,,1,2023,,,
+QTS,"USA, AZ",United States,"(33.5386523, -112.1859866)",33.5386523,-112.1859866,,1,,,,
+QTS,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,1,,,,
+QTS,"USA, AZ",United States,"(33.4515468, -112.1992208)",33.4515468,-112.1992208,,1,,,,
+QTS,"USA, CA",United States,"(38.5815719, -121.4943996)",38.5815719,-121.4943996,,1,,,,
+QTS,"USA, CA",United States,"(37.3541079, -121.9552356)",37.3541079,-121.9552356,,1,,,,
+QTS,"USA, CO",United States,"(39.7392358, -104.990251)",39.7392358,-104.990251,,1,,,,
+QTS,"USA, FL",United States,"(25.7616798, -80.1917902)",25.7616798,-80.1917902,,1,,,,
+QTS,"USA, GA",United States,"(33.748752, -84.38768449999999)",33.748752,-84.38768449999999,,1,,,,
+QTS,"USA, GA",United States,"(33.748752, -84.38768449999999)",33.748752,-84.38768449999999,,1,,,,
+QTS,"USA, GA",United States,"(34.0514898, -84.0712997)",34.0514898,-84.0712997,,1,,,,
+QTS,"USA, IL",United States,"(41.8781136, -87.6297982)",41.8781136,-87.6297982,,1,,,,
+QTS,"USA, KS",United States,"(38.9822282, -94.6707917)",38.9822282,-94.6707917,,1,,,,
+QTS,"USA, NJ",United States,"(40.2677539, -74.5402506)",40.2677539,-74.5402506,,1,,,,
+QTS,"USA, NJ",United States,"(40.7177545, -74.0431435)",40.7177545,-74.0431435,,1,,,,
+QTS,"USA, NJ",United States,"(40.554887, -74.4642861)",40.554887,-74.4642861,,1,,,,
+QTS,"USA, OH",United States,"(40.0821602, -82.8100923)",40.0821602,-82.8100923,,1,,,,
+QTS,"USA, OH",United States,"(40.0821602, -82.8100923)",40.0821602,-82.8100923,,1,,,,
+QTS,"USA, OR",United States,"(45.5201113, -122.989848)",45.5201113,-122.989848,,1,,,,
+QTS,"USA, OR",United States,"(45.5201113, -122.989848)",45.5201113,-122.989848,,1,,,,
+QTS,"USA, TX",United States,"(32.7554883, -97.3307658)",32.7554883,-97.3307658,,1,,,,
+QTS,"USA, TX",United States,"(32.8140177, -96.9488945)",32.8140177,-96.9488945,,1,,,,
+QTS,"USA, TX",United States,"(29.4251905, -98.4945922)",29.4251905,-98.4945922,,1,,,,
+QTS,"USA, VA",United States,"(39.0019959, -77.459323)",39.0019959,-77.459323,,1,,,,
+QTS,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,,,,
+QTS,"USA, VA",United States,"(39.0073208, -77.4855055)",39.0073208,-77.4855055,,1,,,,
+QTS,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,1,,,,
+QTS,"USA, VA",United States,"(38.7509488, -77.47526669999999)",38.7509488,-77.47526669999999,,1,,,,
+QTS,"USA, VA",United States,"(37.5407246, -77.4360481)",37.5407246,-77.4360481,,1,,,,
+QTS,NLD,Netherlands,"(53.4385887, 6.8354937)",53.4385887,6.8354937,,1,,,,
+QTS,NLD,Netherlands,"(53.2193835, 6.566501799999999)",53.2193835,6.566501799999999,,1,,,,
+SAP,CHN,China,"(39.904211, 116.407395)",39.904211,116.407395,,1,,,,
+SAP,CHN,China,"(38.0359899, 114.46979)",38.0359899,114.46979,,1,,,,
+SAP,HKG,China,"(22.3193039, 114.1693611)",22.3193039,114.1693611,,1,,,,
+SAP,CHN,China,"(38.4711699, 106.25867)",38.4711699,106.25867,,1,,,,
+SAP,CHN,China,"(31.230416, 121.473701)",31.230416,121.473701,,1,,,,
+SAP,IND,India,"(13.0826802, 80.2707184)",13.0826802,80.2707184,,1,,,,
+SAP,IND,India,"(28.7040592, 77.10249019999999)",28.7040592,77.10249019999999,,1,,,,
+SAP,IND,India,"(19.0759837, 72.8776559)",19.0759837,72.8776559,,1,,,,
+SAP,IND,India,"(18.5204303, 73.8567437)",18.5204303,73.8567437,,1,,,,
+SAP,IDN,Indonesia,"(-6.1944491, 106.8229198)",-6.1944491,106.8229198,,1,,,,
+SAP,JPN,Japan,"(34.6937249, 135.5022535)",34.6937249,135.5022535,,2,,,,
+SAP,JPN,Japan,"(35.6764225, 139.650027)",35.6764225,139.650027,,2,,,,
+SAP,MYS,Malaysia,"(3.509247, 101.5248055)",3.509247,101.5248055,,1,,,,
+SAP,SGP,Singapore,"(1.352083, 103.819836)",1.352083,103.819836,,2,,,,
+SAP,KOR,South Korea,"(37.5518911, 126.9917937)",37.5518911,126.9917937,,1,,,,
+SAP,TWN,Taiwan,"(24.0517963, 120.5161352)",24.0517963,120.5161352,,1,,,,
+SAP,AUS,Australia,"(-31.2532183, 146.921099)",-31.2532183,146.921099,,1,,,,
+SAP,AUS,Australia,"(-33.8688197, 151.2092955)",-33.8688197,151.2092955,,2,,,,
+SAP,AUS,Australia,"(-36.9847807, 143.3906074)",-36.9847807,143.3906074,,1,,,,
+SAP,AUT,Austria,"(48.2081664, 16.3718643)",48.2081664,16.3718643,,2,,,,
+SAP,BEL,Belgium,"(50.4705544, 3.8169701)",50.4705544,3.8169701,,1,,,,
+SAP,FIN,Finland,"(60.5693374, 27.1878318)",60.5693374,27.1878318,,1,,,,
+SAP,FRA,France,"(48.856614, 2.3522219)",48.856614,2.3522219,,1,,,,
+SAP,DEU,Germany,"(50.1109221, 8.6821267)",50.1109221,8.6821267,,2,,,,
+SAP,DEU,Germany,"(47.84199820000001, 12.9728226)",47.84199820000001,12.9728226,,1,,,,
+SAP,DEU,Germany,"(49.2568614, 8.6265334)",49.2568614,8.6265334,,3,,,,
+SAP,DEU,Germany,"(49.3063689, 8.6427693)",49.3063689,8.6427693,,1,,,,
+SAP,IRL,Ireland,"(53.3498053, -6.2603097)",53.3498053,-6.2603097,,2,,,,
+SAP,ITA,Italy,"(45.4642035, 9.189982)",45.4642035,9.189982,,1,,,,
+SAP,NLD,Netherlands,"(52.3675734, 4.9041389)",52.3675734,4.9041389,,1,,,,
+SAP,NLD,Netherlands,"(53.4385887, 6.8354937)",53.4385887,6.8354937,,1,,,,
+SAP,NOR,Norway,"(59.9138688, 10.7522454)",59.9138688,10.7522454,,1,,,,
+SAP,POL,Poland,"(52.2296756, 21.0122287)",52.2296756,21.0122287,,1,,,,
+SAP,ESP,Spain,"(40.4167754, -3.7037902)",40.4167754,-3.7037902,,1,,,,
+SAP,SWE,Sweden,"(60.6748796, 17.1412726)",60.6748796,17.1412726,,1,,,,
+SAP,SWE,Sweden,"(59.32932349999999, 18.0685808)",59.32932349999999,18.0685808,,1,,,,
+SAP,CHE,Switzerland,"(46.2043907, 6.1431577)",46.2043907,6.1431577,,1,,,,
+SAP,CHE,Switzerland,"(47.3768866, 8.541694)",47.3768866,8.541694,,2,,,,
+SAP,GBR,United Kingdom,"(51.5072178, -0.1275862)",51.5072178,-0.1275862,,1,,,,
+SAP,BHR,Bahrain,"(26.2235305, 50.5875935)",26.2235305,50.5875935,,1,,,,
+SAP,ISR,Israel,"(32.0852999, 34.78176759999999)",32.0852999,34.78176759999999,,1,,,,
+SAP,QAT,Qatar,"(25.2854473, 51.53103979999999)",25.2854473,51.53103979999999,,1,,,,
+SAP,SAU,Saudi Arabia,"(26.4206828, 50.0887943)",26.4206828,50.0887943,,1,,,,
+SAP,SAU,Saudi Arabia,"(23.9904222, 44.9393443)",23.9904222,44.9393443,,1,,,,
+SAP,SAU,Saudi Arabia,"(24.7135517, 46.6752957)",24.7135517,46.6752957,,1,,,,
+SAP,ZAF,South Africa,"(-33.8872573, 18.5384888)",-33.8872573,18.5384888,,1,,,,
+SAP,ZAF,South Africa,"(-26.2041028, 28.0473051)",-26.2041028,28.0473051,,1,,,,
+SAP,ARE,United Arab Emirates,"(24.453884, 54.3773438)",24.453884,54.3773438,,2,,,,
+SAP,ARE,United Arab Emirates,"(25.2048493, 55.2707828)",25.2048493,55.2707828,,1,,,,
+SAP,CAN,Canada,"(43.2557206, -79.8711024)",43.2557206,-79.8711024,,1,,,,
+SAP,CAN,Canada,"(45.5018869, -73.56739189999999)",45.5018869,-73.56739189999999,,1,,,,
+SAP,CAN,Canada,"(46.8130816, -71.20745959999999)",46.8130816,-71.20745959999999,,1,,,,
+SAP,CAN,Canada,"(43.653226, -79.3831843)",43.653226,-79.3831843,,3,,,,
+SAP,"USA, PA",United States,"(39.9525839, -75.1652215)",39.9525839,-75.1652215,,1,,,,
+SAP,"USA, AZ",United States,"(33.4483771, -112.0740373)",33.4483771,-112.0740373,,1,,,,
+SAP,"USA, AZ",United States,"(33.3061605, -111.8412502)",33.3061605,-111.8412502,,1,,,,
+SAP,"USA, VA",United States,"(39.0437567, -77.4874416)",39.0437567,-77.4874416,,3,,,,
+SAP,"USA, CA",United States,"(38.5815719, -121.4943996)",38.5815719,-121.4943996,,2,,,,
+SAP,"USA, CO",United States,"(38.8338816, -104.8213634)",38.8338816,-104.8213634,,2,,,,
+SAP,"USA, OH",United States,"(39.9611755, -82.99879419999999)",39.9611755,-82.99879419999999,,1,,,,
+SAP,"USA, IL",United States,"(42.0039178, -87.9703461)",42.0039178,-87.9703461,,1,,,,
+SAP,"USA, IA",United States,"(41.5868417, -93.6249522)",41.5868417,-93.6249522,,1,,,,
+SAP,"USA, NV",United States,"(36.171563, -115.1391009)",36.171563,-115.1391009,,1,,,,
+SAP,"USA, CA",United States,"(34.0549076, -118.242643)",34.0549076,-118.242643,,1,,,,
+SAP,"USA, SC",United States,"(33.1960027, -80.01313739999999)",33.1960027,-80.01313739999999,,1,,,,
+SAP,"USA, VA",United States,"(36.8507689, -76.28587259999999)",36.8507689,-76.28587259999999,,1,,,,
+SAP,"USA, PA",United States,"(39.9868904, -75.4007058)",39.9868904,-75.4007058,,1,,,,
+SAP,"USA, OH",United States,"(39.9611755, -82.99879419999999)",39.9611755,-82.99879419999999,,1,,,,
+SAP,"USA, OR",United States,"(45.83985500000001, -119.7005834)",45.83985500000001,-119.7005834,,1,,,,
+SAP,"USA, WA",United States,"(47.2342997, -119.8525504)",47.2342997,-119.8525504,,1,,,,
+SAP,"USA, CA",United States,"(37.3541079, -121.9552356)",37.3541079,-121.9552356,,1,,,,
+SAP,"USA, VA",United States,"(39.0066993, -77.4291298)",39.0066993,-77.4291298,,1,,,,
+SAP,"USA, TX",United States,"(30.267153, -97.7430608)",30.267153,-97.7430608,,1,,,,
+SAP,"USA, OR",United States,"(45.6017716, -121.1848433)",45.6017716,-121.1848433,,1,,,,
+SAP,"USA, VA",United States,"(37.5407246, -77.4360481)",37.5407246,-77.4360481,,1,,,,
+SAP,"USA, IA",United States,"(41.2619444, -95.8608333)",41.2619444,-95.8608333,,1,,,,
+SAP,BRA,Brazil,"(-23.5557714, -46.6395571)",-23.5557714,-46.6395571,,1,,,,
+SAP,CHL,Chile,"(-33.4488897, -70.6692655)",-33.4488897,-70.6692655,,1,,,,
