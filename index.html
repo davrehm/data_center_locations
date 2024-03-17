@@ -12,12 +12,9 @@
     </style>
 </head>
 <body>
-    <h1 style="font-size: 2.5em; font-weight: normal;">Data Center Map</h1>
+    <h1 style="font-size: 42px; font-weight: normal;">Data Center Map</h1>
     <ul>
     <p style="font-size: 24px; font-weight: bold; margin-bottom: 50px;"><a href="marker_cluster_map.html">👉 Go to Map</a></p>
-    <p>Note:<p>
-    </p>The 'number of facilities' was derived from the 'number of availability zones'.</p>
-    <br>
     <p>The data center locations were retrieved from the firms` public websites. See here:</p>
     <p><a href="https://www.alibabacloud.com/de/global-locations"><img src="Alibaba.png" alt="Logo" width="20" height="20"> Alibaba Cloud</a></p>
     <p><a href="https://aws.amazon.com/about-aws/global-infrastructure/"><img src="AWS.png" alt="Logo" width="20" height="20"> Amazon Web Services</a></p>
@@ -33,6 +30,11 @@
     <p><a href="https://www.qtsdatacenters.com/data-centers"><img src="QTS.png" alt="Logo" width="20" height="20"> QTS Realty Trust</a></p>
     <p><a href="https://www.sap.com/about/trust-center/data-center.html"><img src="SAP.png" alt="Logo" width="20" height="20"> SAP</a></p>
     <br>
+    <br>
+    <p>Notes:</p>
+    <p>- The locations of the data centers were retrieved using the Google Geolocation API and OpenStreetMaps Nominatim.</p>
+    <p>- The depicted data center locations are approximations. Using the fetched coordinates, the locations were randomly offset to avoid overlapping.</p>
+    <p>- The 'number of facilities' was derived from the 'number of availability zones' given on the website.</p>
     </ul>
 </body>
 </html>
